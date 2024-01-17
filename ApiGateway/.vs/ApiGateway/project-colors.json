@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1aa40cbc-788c-4328-9cd6-775eef6200cd": {
+      "ProjectGuid": "1aa40cbc-788c-4328-9cd6-775eef6200cd",
+      "DisplayName": "ApiGateway",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

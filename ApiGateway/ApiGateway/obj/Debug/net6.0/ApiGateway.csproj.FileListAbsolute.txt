@@ -1,0 +1,200 @@
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\bin\Debug\net6.0\appsettings.json
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\bin\Debug\net6.0\ApiGateway.exe
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\bin\Debug\net6.0\ocelot.json
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\bin\Debug\net6.0\ApiGateway.deps.json
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\bin\Debug\net6.0\ApiGateway.runtimeconfig.json
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\bin\Debug\net6.0\ApiGateway.dll
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\bin\Debug\net6.0\ApiGateway.pdb
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\bin\Debug\net6.0\Ocelot.dll
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.csproj.AssemblyReference.cache
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.AssemblyInfoInputs.cache
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.AssemblyInfo.cs
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.csproj.CoreCompileInputs.cache
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiGateway.props
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiGateway.props
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiGateway.props
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\obj\Debug\net6.0\scopedcss\bundle\ApiGateway.styles.css
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.csproj.CopyComplete
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.dll
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\obj\Debug\net6.0\refint\ApiGateway.dll
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.pdb
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.genruntimeconfig.cache
+C:\Users\BMOP\Desktop\TEXTIL\ApiGateway\ApiGateway\obj\Debug\net6.0\ref\ApiGateway.dll
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\bin\Debug\net6.0\appsettings.json
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\bin\Debug\net6.0\ApiGateway.exe
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\bin\Debug\net6.0\ocelot.json
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\bin\Debug\net6.0\ApiGateway.deps.json
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\bin\Debug\net6.0\ApiGateway.runtimeconfig.json
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\bin\Debug\net6.0\ApiGateway.dll
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\bin\Debug\net6.0\ApiGateway.pdb
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\bin\Debug\net6.0\Ocelot.dll
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.csproj.AssemblyReference.cache
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.AssemblyInfoInputs.cache
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.AssemblyInfo.cs
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.csproj.CoreCompileInputs.cache
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiGateway.props
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiGateway.props
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiGateway.props
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\obj\Debug\net6.0\scopedcss\bundle\ApiGateway.styles.css
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.csproj.CopyComplete
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.dll
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\obj\Debug\net6.0\refint\ApiGateway.dll
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.pdb
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.genruntimeconfig.cache
+C:\Users\zoomt\OneDrive\Escritorio\Protextil\ApiGateway\ApiGateway\obj\Debug\net6.0\ref\ApiGateway.dll
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\bin\Debug\net6.0\appsettings.json
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\bin\Debug\net6.0\ApiGateway.exe
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\bin\Debug\net6.0\ocelot.json
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\bin\Debug\net6.0\ApiGateway.deps.json
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\bin\Debug\net6.0\ApiGateway.runtimeconfig.json
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\bin\Debug\net6.0\ApiGateway.dll
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\bin\Debug\net6.0\ApiGateway.pdb
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\bin\Debug\net6.0\Ocelot.dll
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.csproj.AssemblyReference.cache
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.AssemblyInfoInputs.cache
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.AssemblyInfo.cs
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.csproj.CoreCompileInputs.cache
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiGateway.props
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiGateway.props
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiGateway.props
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\obj\Debug\net6.0\scopedcss\bundle\ApiGateway.styles.css
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.csproj.CopyComplete
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.dll
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\obj\Debug\net6.0\refint\ApiGateway.dll
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.pdb
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.genruntimeconfig.cache
+C:\Users\zoomt\OneDrive\Escritorio\ProPrueba\ApiGateway\ApiGateway\obj\Debug\net6.0\ref\ApiGateway.dll
+C:\Proyectos\Proyectos ReactJS\Asesoria\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\appsettings.Development.json
+C:\Proyectos\Proyectos ReactJS\Asesoria\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\appsettings.json
+C:\Proyectos\Proyectos ReactJS\Asesoria\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\ApiGateway.exe
+C:\Proyectos\Proyectos ReactJS\Asesoria\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\ocelot.json
+C:\Proyectos\Proyectos ReactJS\Asesoria\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\ApiGateway.deps.json
+C:\Proyectos\Proyectos ReactJS\Asesoria\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\ApiGateway.runtimeconfig.json
+C:\Proyectos\Proyectos ReactJS\Asesoria\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\ApiGateway.dll
+C:\Proyectos\Proyectos ReactJS\Asesoria\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\ref\ApiGateway.dll
+C:\Proyectos\Proyectos ReactJS\Asesoria\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\ApiGateway.pdb
+C:\Proyectos\Proyectos ReactJS\Asesoria\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\FluentValidation.dll
+C:\Proyectos\Proyectos ReactJS\Asesoria\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Proyectos\Proyectos ReactJS\Asesoria\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Proyectos\Proyectos ReactJS\Asesoria\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Proyectos\Proyectos ReactJS\Asesoria\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Proyectos\Proyectos ReactJS\Asesoria\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Proyectos\Proyectos ReactJS\Asesoria\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Proyectos\Proyectos ReactJS\Asesoria\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Proyectos\Proyectos ReactJS\Asesoria\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\Ocelot.dll
+C:\Proyectos\Proyectos ReactJS\Asesoria\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Proyectos\Proyectos ReactJS\Asesoria\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Proyectos\Proyectos ReactJS\Asesoria\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Proyectos\Proyectos ReactJS\Asesoria\ProTic\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.csproj.AssemblyReference.cache
+C:\Proyectos\Proyectos ReactJS\Asesoria\ProTic\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Proyectos ReactJS\Asesoria\ProTic\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.AssemblyInfoInputs.cache
+C:\Proyectos\Proyectos ReactJS\Asesoria\ProTic\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.AssemblyInfo.cs
+C:\Proyectos\Proyectos ReactJS\Asesoria\ProTic\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.csproj.CoreCompileInputs.cache
+C:\Proyectos\Proyectos ReactJS\Asesoria\ProTic\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Proyectos\Proyectos ReactJS\Asesoria\ProTic\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Proyectos\Proyectos ReactJS\Asesoria\ProTic\ApiGateway\ApiGateway\obj\Debug\net6.0\staticwebassets.build.json
+C:\Proyectos\Proyectos ReactJS\Asesoria\ProTic\ApiGateway\ApiGateway\obj\Debug\net6.0\staticwebassets.development.json
+C:\Proyectos\Proyectos ReactJS\Asesoria\ProTic\ApiGateway\ApiGateway\obj\Debug\net6.0\scopedcss\bundle\ApiGateway.styles.css
+C:\Proyectos\Proyectos ReactJS\Asesoria\ProTic\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.csproj.CopyComplete
+C:\Proyectos\Proyectos ReactJS\Asesoria\ProTic\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.dll
+C:\Proyectos\Proyectos ReactJS\Asesoria\ProTic\ApiGateway\ApiGateway\obj\Debug\net6.0\ref\ApiGateway.dll
+C:\Proyectos\Proyectos ReactJS\Asesoria\ProTic\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.pdb
+C:\Proyectos\Proyectos ReactJS\Asesoria\ProTic\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.genruntimeconfig.cache
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\appsettings.json
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\ApiGateway.exe
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\ocelot.json
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\ApiGateway.deps.json
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\ApiGateway.runtimeconfig.json
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\ApiGateway.dll
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\ApiGateway.pdb
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\Ocelot.dll
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.csproj.AssemblyReference.cache
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.AssemblyInfoInputs.cache
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.AssemblyInfo.cs
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.csproj.CoreCompileInputs.cache
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiGateway.props
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiGateway.props
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiGateway.props
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\obj\Debug\net6.0\scopedcss\bundle\ApiGateway.styles.css
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.csproj.CopyComplete
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.dll
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\obj\Debug\net6.0\refint\ApiGateway.dll
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.pdb
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\obj\Debug\net6.0\ApiGateway.genruntimeconfig.cache
+C:\Users\zoomt\OneDrive\Escritorio\ProTic\ApiGateway\ApiGateway\obj\Debug\net6.0\ref\ApiGateway.dll

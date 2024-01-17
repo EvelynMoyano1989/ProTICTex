@@ -1,0 +1,402 @@
+{
+  "Routes": [
+
+    //INICIO ApiPedidos
+
+    {
+      "DownstreamPathTemplate": "/apinuevopedido/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4001
+        }
+
+      ],
+      "UpstreamPathTemplate": "/apinuevopedido/{everything}",
+      "UpstreamHttpMethod": [ "get", "post", "put", "OPTIONS", "delete" ]
+    },
+
+    {
+      "DownstreamPathTemplate": "/apiclicarrito/",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4001
+        }
+      ],
+      "UpstreamPathTemplate": "/apiclicarrito/",
+      "UpstreamHttpMethod": [ "get", "post", "put", "OPTIONS", "delete" ]
+    },
+
+    {
+      "DownstreamPathTemplate": "/apiclicarrito/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4001
+        }
+      ],
+      "UpstreamPathTemplate": "/apiclicarrito/{everything}",
+      "UpstreamHttpMethod": [ "get", "post", "put", "OPTIONS", "delete" ]
+    },
+
+    {
+      "DownstreamPathTemplate": "/apiverpedidos/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4001
+        }
+      ],
+      "UpstreamPathTemplate": "/apiverpedidos/{everything}",
+      "UpstreamHttpMethod": [ "get", "post", "put", "OPTIONS", "delete" ]
+    },
+
+    {
+      "DownstreamPathTemplate": "/apiinfopedido/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4001
+        }
+      ],
+      "UpstreamPathTemplate": "/apiinfopedido/{everything}",
+      "UpstreamHttpMethod": [ "get", "post", "put", "OPTIONS", "delete" ]
+    },
+
+    {
+      "DownstreamPathTemplate": "/apiadminproducto/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4001
+        }
+      ],
+      "UpstreamPathTemplate": "/apiadminproducto/{everything}",
+      "UpstreamHttpMethod": [ "get", "post", "put", "OPTIONS", "delete" ]
+    },
+
+    {
+      "DownstreamPathTemplate": "/apifactura",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4001
+        }
+      ],
+      "UpstreamPathTemplate": "/apifactura",
+      "UpstreamHttpMethod": [ "get", "post", "put", "OPTIONS", "delete" ]
+    },
+
+    {
+      "DownstreamPathTemplate": "/apifactura/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4001
+        }
+      ],
+      "UpstreamPathTemplate": "/apifactura/{everything}",
+      "UpstreamHttpMethod": [ "get", "post", "put", "OPTIONS", "delete" ]
+    },
+    //FIN ApiPedidos
+
+    //INICIO ApiProductos
+
+    {
+      "DownstreamPathTemplate": "/apilistpedidos/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4002
+        }
+      ],
+      "UpstreamPathTemplate": "/apilistpedidos/{everything}",
+      "UpstreamHttpMethod": [ "get", "post", "put", "OPTIONS", "delete" ]
+    },
+
+    {
+      "DownstreamPathTemplate": "/apilistadminproductos/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4002
+        }
+      ],
+      "UpstreamPathTemplate": "/apilistadminproductos/{everything}",
+      "UpstreamHttpMethod": [ "get", "post", "put", "OPTIONS", "delete" ]
+    },
+
+    {
+      "DownstreamPathTemplate": "/capuchino/",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4002
+        }
+      ],
+      "UpstreamPathTemplate": "/capuchino/",
+      "UpstreamHttpMethod": [ "get", "post", "put", "OPTIONS", "delete" ]
+    },
+
+    {
+      "DownstreamPathTemplate": "/capuchino/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4002
+        }
+      ],
+      "UpstreamPathTemplate": "/capuchino/{everything}",
+      "UpstreamHttpMethod": [ "get", "post", "put", "OPTIONS", "delete" ]
+    },
+
+    {
+      "DownstreamPathTemplate": "/apiproductos/",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4002
+        }
+      ],
+      "UpstreamPathTemplate": "/apiproductos/",
+      "UpstreamHttpMethod": [ "get", "post", "put", "OPTIONS", "delete" ]
+    },
+
+    {
+      "DownstreamPathTemplate": "/apiproductos/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4002
+        }
+      ],
+      "UpstreamPathTemplate": "/apiproductos/{everything}",
+      "UpstreamHttpMethod": [ "get", "post", "put", "OPTIONS", "delete" ]
+    },
+
+    {
+      "DownstreamPathTemplate": "/apiunproducto/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4002
+        }
+      ],
+      "UpstreamPathTemplate": "/apiunproducto/{everything}",
+      "UpstreamHttpMethod": [ "get", "post", "put", "OPTIONS", "delete" ]
+    },
+
+    {
+      "DownstreamPathTemplate": "/apiconteo",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4002
+        }
+      ],
+      "UpstreamPathTemplate": "/apiconteo",
+      "UpstreamHttpMethod": [ "get", "post", "put", "OPTIONS", "delete" ]
+    },
+
+    //FIN ApiProductos
+
+    //INICIO ApiSeguridad
+
+    {
+      "DownstreamPathTemplate": "/apirecuperar/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4003
+        }
+      ],
+      "UpstreamPathTemplate": "/apirecuperar/{everything}",
+      "UpstreamHttpMethod": [ "get", "post", "put", "OPTIONS", "delete" ]
+    },
+
+    {
+      "DownstreamPathTemplate": "/encrypt/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4003
+        }
+      ],
+      "UpstreamPathTemplate": "/encrypt/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE", "OPTIONS" ]
+    },
+
+    {
+      "DownstreamPathTemplate": "/decrypt/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4003
+        }
+      ],
+      "UpstreamPathTemplate": "/decrypt/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE", "OPTIONS" ]
+    },
+
+    {
+      "DownstreamPathTemplate": "/encryptpass/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4003
+        }
+      ],
+      "UpstreamPathTemplate": "/encryptpass/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE", "OPTIONS" ]
+    },
+
+    {
+      "DownstreamPathTemplate": "/decryptpass/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4003
+        }
+      ],
+      "UpstreamPathTemplate": "/decryptpass/{everything}",
+      "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE", "OPTIONS" ]
+    },
+
+    //FIN ApiSeguridad
+
+
+    //INICIO ApiUsuarios
+
+    {
+      "DownstreamPathTemplate": "/apiusureclamo/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4004
+        }
+      ],
+      "UpstreamPathTemplate": "/apiusureclamo/{everything}",
+      "UpstreamHttpMethod": [ "get", "post", "put", "OPTIONS", "delete" ]
+    },
+
+    {
+      "DownstreamPathTemplate": "/apiusumicuenta/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4004
+        }
+      ],
+      "UpstreamPathTemplate": "/apiusumicuenta/{everything}",
+      "UpstreamHttpMethod": [ "put", "OPTIONS", "GET", "DELETE", "POST" ]
+    },
+
+    {
+      "DownstreamPathTemplate": "/apiusumicuenta/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4004
+        }
+      ],
+      "UpstreamPathTemplate": "/apiusumicuenta/{id}",
+      "UpstreamHttpMethod": [ "put", "OPTIONS", "GET" ]
+    },
+
+    {
+      "DownstreamPathTemplate": "/apiverificacion/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4004
+        }
+      ],
+      "UpstreamPathTemplate": "/apiverificacion/{everything}",
+      "UpstreamHttpMethod": [ "get", "post", "put", "OPTIONS", "delete" ]
+    },
+
+    {
+      "DownstreamPathTemplate": "/apiregistro",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4004
+        }
+      ],
+      "UpstreamPathTemplate": "/apiregistro",
+      "UpstreamHttpMethod": [ "get", "post", "put", "OPTIONS", "delete" ]
+    },
+
+    {
+      "DownstreamPathTemplate": "/apiregistro/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4004
+        }
+      ],
+      "UpstreamPathTemplate": "/apiregistro/{everything}",
+      "UpstreamHttpMethod": [ "get", "post", "put", "OPTIONS", "delete" ]
+    },
+
+    {
+      "DownstreamPathTemplate": "/apiadminclientes/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4004
+        }
+      ],
+      "UpstreamPathTemplate": "/apiadminclientes/{everything}",
+      "UpstreamHttpMethod": [ "get", "post", "put", "OPTIONS", "delete" ]
+    },
+
+    {
+      "DownstreamPathTemplate": "/apiadminreclamos/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 4004
+        }
+      ],
+      "UpstreamPathTemplate": "/apiadminreclamos/{everything}",
+      "UpstreamHttpMethod": [ "get", "post", "put", "OPTIONS", "delete" ]
+    }
+
+    //FIN ApiUsuarios
+
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:5000"
+  }
+}

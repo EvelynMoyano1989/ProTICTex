@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ApiGateway",
+    "\\ApiGateway\\obj",
+    "\\ApiGateway\\obj\\Debug",
+    "\\ApiGateway\\obj\\Release",
+    "\\ApiGateway\\obj\\Release\\net6.0",
+    "\\ApiGateway\\Properties"
+  ],
+  "SelectedNode": "\\ApiGateway\\ocelot.json",
+  "PreviewInSolutionExplorer": false
+}
